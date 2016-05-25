@@ -1,5 +1,8 @@
 {
     "structure": {
         "readme": "Introduction.md"
+    },
+    "variables": {
+        "": ""
     }
 }
