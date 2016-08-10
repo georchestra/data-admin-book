@@ -18,5 +18,9 @@ Les fiches de métadonnées apparaissent à droite avec les informations princip
 
 blabla
 
+---
+
+
+
 ### Lien avec le visualiseur GeOrchestra
 
