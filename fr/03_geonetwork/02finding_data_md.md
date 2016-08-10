@@ -2,6 +2,7 @@
 
 GeOrchestra utilise la solution **GeoNetwork**, voici un exemple de **page d'accueil** :
 ![Accueil GeoNetwork](gn_acceuil.png)
+
 **1** : zone de recherche
 **2** : zone de recherche avancée
 **3** : dernières fiches de métadonnées modifiées
