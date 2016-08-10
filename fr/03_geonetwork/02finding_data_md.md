@@ -11,4 +11,4 @@ Pour trouver une donnée, il faut **saisir un mot clé** (ou plusieurs dans ce c
 
 ![Recherche donnée](gn_recherche.png)
 
-Les fiches de métadonnées apparaissent à droite avec les informations principales: titre, résumé et mots clés.
+Les fiches de métadonnées apparaissent à droite avec les informations principales : titre, résumé et mots clés.
