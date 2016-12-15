@@ -6,5 +6,6 @@ objectifs :
 * [savoir ce que georchestra apporte : synchro groupes LDAP](03_synchro_groups.md)
 * [savoir créer des règles de sécurisation des services / des données](04_layer_security.md)
 
-Un moodle est également mis à disposition par l'agrocampus
+Un espace moodle est également mis à disposition par l'agrocampus
+
 https://tice.agrocampus-ouest.fr/course/view.php?id=892&section=4
