@@ -1,4 +1,7 @@
-Vous pouvez publier telles quelles les données dans Geoserver mais vous avez aussi de nombreuses possibilités d'optimisation.
+# Documentation officielle
+http://docs.geoserver.org/stable/en/user/data/index.html#data
+
+Vous pouvez publier telles quelles les données dans Geoserver mais vous avez aussi de nombreuses possibilités d'optimisations.
 
 # En améliorant les performances.
 
@@ -16,7 +19,9 @@ http://docs.geoserver.org/stable/en/user/geowebcache/
 Exemples
 
 https://github.com/sigrennesmetropole/geoserver_sld
+
 https://github.com/geobretagne/SLD
+
 https://github.com/cigalsace/processes/tree/master/sld
 
 ![exemple de style](img/style.png)
@@ -36,13 +41,14 @@ Liste d'outils pour travailler du sld
 # Et surtout la métadonnée!!
 ![exemple de style](img/metadata.png)
 
-Le format text/html est obligatoire pour l'icône dans la fenêtre de recherche des couches Mapfishapp
+
+Le format text/html est obligatoire pour l'icône "métadonnée"dans la fenêtre de recherche des couches Mapfishapp
+
 
 ![exemple de style](img/metadata_link.png)
 
-# Documentation officielle
-http://docs.geoserver.org/stable/en/user/data/index.html#data
 
 # Liens divers
 https://github.com/cigalsace/documentation/tree/master/guide_prepa_publication_raster
+
 https://github.com/cigalsace/documentation/tree/master/tuto_prepa_publication_raster
