@@ -1,9 +1,16 @@
-Objectifs :
+Dans geOrchestra, un utilisateur se connecte au moyen de son identifiant et mot de passe.  
+Une fois authentifié sur le CAS, il est reconnu comme tel dans chacune des applications.
 
-* Découvrir les [concepts clés](01_key_concepts.md) de GeoServer, à savoir la logique, qui lui est propre, d'espace de nommage, entrepôt, couche, agrégation & style.
-* Etre en mesure de [publier une donnée de manière optimale](02_publish_data.md).
-* Connaître les [spécificités liées à geOrchestra](03_georchestra_related.md) dans la gestion des données.
-* Savoir [sécuriser ses données et services de données](04_security.md).
+Nous verrons d'abord qu'il existe plusieurs stratégies de gestion des utilisateurs
+
+* [Politiques de gestion des utilisateurs](01_users_and_groups/01_strategy.md)
+* [Stockage](01_users_and_groups/02_storage.md)
+* [Utilisateurs](01_users_and_groups/03_users.md)
+* [Groupes prédéfinis](01_users_and_groups/04_static_groups.md)
+* [Autres groupes](01_users_and_groups/05_other_groups.md)
+* [Exemples](01_users_and_groups/06_examples.md)
+* [Gestion avec l'application ldapadmin](01_users_and_groups/07_ldapadmin.md)
+* [Gestion avec Apache Directory Studio](01_users_and_groups/08_apache_directory_studio.md)
 
 
-Un [MOOC](https://tice.agrocampus-ouest.fr/course/view.php?id=892&section=4) dédié est également mis à disposition par Agrocampus Ouest.
+
