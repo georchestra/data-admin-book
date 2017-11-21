@@ -32,7 +32,7 @@ Le bandeau peut être partiellement personnalisé à partir de la configuration 
 
 #### Modifier le logo
 
-Il suffit de copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une hauteur différente sera automatiquement redimensionnée à 50px.
+Copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une hauteur différente sera automatiquement redimensionnée à une hauteur de 50px.
 
 #### Modifier le lien du logo
 
