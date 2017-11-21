@@ -32,11 +32,11 @@ Le bandeau peut être partiellement personnalisé à partir de la configuration 
 
 #### Modifier le logo
 
-Copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une hauteur différente sera automatiquement redimensionnée à une hauteur de 50px.
+Copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une image sera automatiquement redimensionnée à une hauteur de 50px.
 
 #### Modifier le lien du logo
 
-Non rédigé
+Le logo est associé à l'adresse "/" donc à la racine du domaine. Pour rediriger vers une ressource il faut mettre en place une redirection dans le reverse proxy.
 
 #### Modifier les couleurs du bandeau
 
