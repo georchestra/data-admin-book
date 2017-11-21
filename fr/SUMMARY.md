@@ -39,4 +39,5 @@
 * test
 * [Configurer le bandeau](configurer-le-bandeau.md)
 * Lien métadonnées et données
+* Lien métadonnées et données
 
