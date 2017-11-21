@@ -28,7 +28,7 @@
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
-    * [Accès flux WMS / WFS / CSW](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
+    * [Ajout de couche](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
     * [Contextes](guide-administrateur/mapfishapp/contextes.md)
     * Référentiels
   * [GeoNetwork - catalogue](guide-administrateur/geonetwork-catalogue.md)
