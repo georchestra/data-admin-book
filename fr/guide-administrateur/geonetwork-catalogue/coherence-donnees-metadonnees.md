@@ -1,14 +1,18 @@
 # Vérifier/valider la cohérence des données et des métadonnées - sdi-consistence-check
 
-Cet outil est destiné a générer des rapports mesurant le degré de cohérence entre les données et les métadonnées d’une infrastructure de données spatiales, qu’elle soit basée sur geOrchestra ou non. L'objectif de faciliter la gestion de la qualité de diffusion de la donnée, en fournissant un rapport de conformité entre les données présentes sur la base de données \(services WMS, WFS\) et les métadonnées du catalogue \(service CSW\).
+Cet outil n'est pas inclu dans GeoNetwork, mais nécéssite une installation àcôté. Il destiné a générer des rapports mesurant le degré de cohérence entre les données et les métadonnées d’une infrastructure de données spatiales, qu’elle soit basée sur geOrchestra ou non. L'objectif de faciliter la gestion de la qualité de diffusion de la donnée, en fournissant un rapport de conformité entre les données présentes sur la base de données \(services WMS, WFS\) et les métadonnées du catalogue \(service CSW\).
 
 [https://github.com/georchestra/sdi-consistence-check](https://github.com/georchestra/sdi-consistence-check) \(licence GPL v3\)
 
-3 types de rapports sont disponibles :
+3 types de rapports sont disponibles via une url consultable par un navigateur web :
 
-* via le flux WMS : 
-* via le flux WFS : 
-* Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
+* via le flux WMS : verifie dans le flux getCapabilities du WMS l'association aux metadonnées 
+* via le flux WFS : de même que le WMS mais pour le WFS 
+* via le flux CSW : vérifie la disponibilitée d'un service WMS ou WFS pour chaque métadonnée présente dans le CSW. 
+
+
+
+Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
 
 ```
 #4  
@@ -23,7 +27,5 @@ Cette application vérifie \(pour le WMS et le WFS\) du côté de la base de don
 
 Les rapports sont effectués sur la base des flux CSW, WFS et WMS de la plateforme, et sont actualisés toutes les heures.
 
-
-
-BLABLABLABLABLABLABLABLABLABLA
+cf. mettre lien vers 
 
