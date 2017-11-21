@@ -26,17 +26,17 @@ Une fois l'utilisateur connecté, le bouton `connexion` se change en deux bouton
 
 Le bouton `administration` est ajouté. Il permet d'alterner entre le bandeau utilisateur et le bandeau  des applications d'administration.
 
-## Personnalisation
+## Personnalisation du bandeau
 
 Le bandeau peut être partiellement personnalisé à partir de la configuration datadir.
 
-#### Modifier la hauteur du bandeau
+#### Modifier la hauteur
 
 La hauteur est configurable dans les fichiers suivants :
 
-`cas/cas.properties:header.height=90  
-catalogapp/catalogapp.properties:headerHeight=90  
-geowebcache/geowebcache.properties:header.height=90  
+`cas/cas.properties:header.height=90    
+catalogapp/catalogapp.properties:headerHeight=90    
+geowebcache/geowebcache.properties:header.height=90    
 ldapadmin/ldapadmin.properties:headerHeight=90`
 
 Cette configuration n'agira pas sur le header ou sur les autres applications.
