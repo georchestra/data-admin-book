@@ -25,7 +25,7 @@
 * liens données / métadonnées
 * [Guide administrateur](guide-administrateur.md)
   * Comment débuter
-  * Configurer geOrchestra
+  * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
   * [GeoNetwork - catalogue](guide-administrateur/geonetwork-catalogue.md)
@@ -33,4 +33,5 @@
   * GeoServer
   * Ldap
 * test
+* [Configurer le bandeau](configurer-le-bandeau.md)
 
