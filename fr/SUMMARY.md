@@ -34,8 +34,9 @@
   * [GeoNetwork - catalogue](guide-administrateur/geonetwork-catalogue.md)
     * [cohérence données-métadonnées](guide-administrateur/geonetwork-catalogue/coherence-donnees-metadonnees.md)
     * [Documentation GeoNetwork](guide-administrateur/geonetwork-catalogue/documentation-geonetwork.md)
-  * GeoServer
+  * [GeoServer](guide-administrateur/geoserver.md)
   * Ldap
 * test
 * [Configurer le bandeau](configurer-le-bandeau.md)
+* Lien métadonnées et données
 
