@@ -1,6 +1,10 @@
 # Bandeau \(header\)
 
-Le bandeau \(module header\) est un bloc horizontal affiché sur toutes les applications intégrées dans geOrchestra. Il permet de naviguer entre ces applications. Le bandeau se présente différemment selon le profil de l'utilisateur :
+Le bandeau \(module header\) est un bloc horizontal affiché sur toutes les applications intégrées dans geOrchestra.
+
+![](/assets/index.png)
+
+Il permet de naviguer entre ces applications. Le bandeau se présente différemment selon le profil de l'utilisateur :
 
 ### Bandeau pour utilisateur anonyme
 
@@ -26,15 +30,15 @@ Le bouton `administration` est ajouté. Il permet d'alterner entre le bandeau ut
 
 Le bandeau peut être partiellement personnalisé à partir de la configuration datadir.
 
-### Modifier le logo
+#### Modifier le logo
 
 Il suffit de copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une hauteur différente sera automatiquement redimensionnée à 50px.
 
-### Modifier le lien du logo
+#### Modifier le lien du logo
 
 Non rédigé
 
-### Modifier les couleurs du bandeau
+#### Modifier les couleurs du bandeau
 
 La configuration ne le permet actuellement pas.
 
