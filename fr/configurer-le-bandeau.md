@@ -23,7 +23,7 @@ Pour un utilisateur anonyme, le bandeau présente de gauche à droite :
 
 Une fois l'utilisateur connecté, le bouton `connexion` se change en deux boutons pour accéder au profil de l'utilisateur et pour se déconnecter.
 
-La destination des boutons utilisateurs est fabriquée à partir du paramètre `ldapAdminPublicContextPath `dans `header/header.properties` .
+La destination des boutons utilisateurs est fabriquée à partir du paramètre `ldapAdminPublicContextPath`dans `header/header.properties` .
 
 Si l'utilisateur a, dans son profil, le droit d'accéder à des applications filtrées, les boutons correspondant apparaîssent.
 
@@ -39,9 +39,9 @@ Le bandeau peut être partiellement personnalisé à partir de la configuration 
 
 La hauteur est configurable dans les fichiers suivants :
 
-`cas/cas.properties:header.height=90            
-catalogapp/catalogapp.properties:headerHeight=90            
-geowebcache/geowebcache.properties:header.height=90            
+`cas/cas.properties:header.height=90  
+catalogapp/catalogapp.properties:headerHeight=90              
+geowebcache/geowebcache.properties:header.height=90              
 ldapadmin/ldapadmin.properties:headerHeight=90`
 
 Cette configuration n'agira pas sur le header lui-même, ni sur les applications dont le bandeau n'est pas configurable \(en particulier GeoServer et GeoNetwork\).
@@ -60,5 +60,5 @@ La configuration ne le permet actuellement pas.
 
 #### Changer la langue
 
-Paramètre `language `dans `header/header.properties`
+Paramètre `language`dans `header/header.properties`
 
