@@ -8,8 +8,7 @@ Cet outil est destiné a générer des rapports mesurant le degré de cohérence
 
 * via le flux WMS : 
 * via le flux WFS : 
-* 
-Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
+* Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
 
 ```
 #4  
@@ -23,4 +22,8 @@ Pour chaque couche son niveau de conformité : “ok” si la donnée et la mét
 Cette application vérifie \(pour le WMS et le WFS\) du côté de la base de données si la donnée a une métadonnée associée et si celle-ci est accessible. Pour le CSW du catalogue, l’application vérifie qu’une donnée a été associée dans la fiche de métadonnées.
 
 Les rapports sont effectués sur la base des flux CSW, WFS et WMS de la plateforme, et sont actualisés toutes les heures.
+
+
+
+BLABLABLABLABLABLABLABLABLABLA
 
