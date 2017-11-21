@@ -34,12 +34,12 @@ Le bandeau peut être partiellement personnalisé à partir de la configuration 
 
 La hauteur est configurable dans les fichiers suivants :
 
-`cas/cas.properties:header.height=90    
-catalogapp/catalogapp.properties:headerHeight=90    
-geowebcache/geowebcache.properties:header.height=90    
+`cas/cas.properties:header.height=90      
+catalogapp/catalogapp.properties:headerHeight=90      
+geowebcache/geowebcache.properties:header.height=90      
 ldapadmin/ldapadmin.properties:headerHeight=90`
 
-Cette configuration n'agira pas sur le header ou sur les autres applications.
+Cette configuration n'agira pas sur le header ni sur les autres applications.
 
 #### Modifier le logo
 
