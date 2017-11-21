@@ -12,7 +12,7 @@ Cet outil n'est pas inclu dans GeoNetwork, mais nécéssite une installation àc
 
 Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
 
-```
+```markdown
 #4  
   Layer: georhena:Centres_Zentren_Planif_Planung_2016
   Error: No metadata defined for layer georhena:Centres_Zentren_Planif_Planung_2016
