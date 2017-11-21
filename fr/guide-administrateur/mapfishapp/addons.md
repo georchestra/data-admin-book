@@ -1,15 +1,15 @@
 # Gérer la liste des addons Mapfishapp
 
-Les addons disponibles sont stockés dans le datadir georchestra. Un répertoire dédié existe pour chaque addon dans mapfishapp/addons/.
+Les addons disponibles sont stockés dans le datadir georchestra. Un répertoire dédié existe pour chaque addon dans mapfishapp/addons/.
 
-Exemple avec l'addon cadastre : mapfishapp/addons/cadastre
+Exemple avec l'addon cadastre : mapfishapp/addons/cadastre
 
-Le paramétrage, le préchargement ou la désactivation de chaque addon se fait dans le fichier config.json de chaque addon présent à la racine de chaque addon.
+Le paramétrage, le préchargement ou la désactivation de chaque addon se fait dans le fichier config.json de chaque addon présent à la racine de chaque addon.
 
 Exemple de fichier config.json
 
 ```
-[{
+[{
             "id": "geob_coordinates_0",
             "name": "geob_coordinates",
             "enabled": "true",            
@@ -32,6 +32,8 @@ Exemple de fichier config.json
 ```
 
 # Configurer les addons préexistants
+
+Todo
 
 
 
