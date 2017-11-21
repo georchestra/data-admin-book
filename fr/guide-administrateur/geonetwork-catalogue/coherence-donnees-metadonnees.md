@@ -7,7 +7,8 @@ Cet outil est destiné a générer des rapports mesurant le degré de cohérence
 3 types de rapports sont disponibles :
 
 * via le flux WMS : 
-
+* via le flux WFS : 
+* 
 Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
 
 ```
