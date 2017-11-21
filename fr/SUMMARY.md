@@ -22,7 +22,6 @@
   * [Saisie d'une métadonnée et workflow de validation](03_geonetwork/03_editing_metadata.md)
   * [Moissonage](03_geonetwork/04_harvesting.md)
   * [Gestion des droits](03_geonetwork/05_security.md)
-* liens données / métadonnées
 * [Guide administrateur](guide-administrateur.md)
   * [Comment débuter](guide-administrateur/comment-debuter.md)
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
