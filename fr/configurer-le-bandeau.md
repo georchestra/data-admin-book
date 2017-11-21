@@ -32,13 +32,9 @@ Il suffit de copier une image png dans l'emplacement `datadir/header/logo.png`. 
 
 ### Modifier le lien du logo
 
-Je ne sais pas !
+Non rédigé
 
 ### Modifier les couleurs du bandeau
 
 La configuration ne le permet actuellement pas.
-
-
-
-
 
