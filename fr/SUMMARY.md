@@ -25,6 +25,7 @@
   * [Gestion des droits](03_geonetwork/05_security.md)
 * [Guide administrateur](guide-administrateur.md)
   * [Comment débuter](guide-administrateur/comment-debuter.md)
+    * [Préparation de fichier](guide-administrateur/comment-debuter/preparation-de-fichier.md)
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
