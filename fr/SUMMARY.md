@@ -37,9 +37,7 @@
     * [Documentation GeoNetwork](guide-administrateur/geonetwork-catalogue/documentation-geonetwork.md)
   * [GeoServer](guide-administrateur/geoserver.md)
     * [Créer un lien entre les métadonnées et les données](guide-administrateur/geoserver/creer-un-lien-entre-les-metadonnees-et-les-donnees.md)
-  * [Lien métadonnées et données](lien-metadonnees-et-donnees.md)
   * Ldap
 * test
 * [Configurer le bandeau](configurer-le-bandeau.md)
-* Lien métadonnées et données
 

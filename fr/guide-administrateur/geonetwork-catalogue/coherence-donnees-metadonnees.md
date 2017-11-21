@@ -10,8 +10,6 @@ Cet outil n'est pas inclu dans GeoNetwork, mais nécéssite une installation àc
 * via le flux WFS : de même que le WMS mais pour le WFS 
 * via le flux CSW : vérifie la disponibilitée d'un service WMS ou WFS pour chaque métadonnée présente dans le CSW. 
 
-
-
 Pour chaque couche son niveau de conformité : “ok” si la donnée et la métadonnée sont bien conformes, ou un message d'erreur détaillé dans le cas contraire.
 
 ```
@@ -27,5 +25,5 @@ Cette application vérifie \(pour le WMS et le WFS\) du côté de la base de don
 
 Les rapports sont effectués sur la base des flux CSW, WFS et WMS de la plateforme, et sont actualisés toutes les heures.
 
-cf. mettre lien vers 
+cf. [Créer un lien entre les métadonnées et les données](/guide-administrateur/geoserver/creer-un-lien-entre-les-metadonnees-et-les-donnees.md)
 
