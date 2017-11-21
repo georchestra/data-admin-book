@@ -37,4 +37,5 @@
   * GeoServer
   * Ldap
 * test
+* [Configurer le bandeau](configurer-le-bandeau.md)
 
