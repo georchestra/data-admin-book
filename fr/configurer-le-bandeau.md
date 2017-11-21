@@ -30,6 +30,17 @@ Le bouton `administration` est ajouté. Il permet d'alterner entre le bandeau ut
 
 Le bandeau peut être partiellement personnalisé à partir de la configuration datadir.
 
+#### Modifier la hauteur du bandeau
+
+La hauteur est configurable dans les fichiers suivants :
+
+`cas/cas.properties:header.height=90  
+catalogapp/catalogapp.properties:headerHeight=90  
+geowebcache/geowebcache.properties:header.height=90  
+ldapadmin/ldapadmin.properties:headerHeight=90`
+
+Cette configuration n'agira pas sur le header ou sur les autres applications.
+
 #### Modifier le logo
 
 Copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une image sera automatiquement redimensionnée à une hauteur de 50px.
