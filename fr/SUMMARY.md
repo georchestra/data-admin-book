@@ -31,6 +31,7 @@
     * [Ajout de couche](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
     * [Contextes](guide-administrateur/mapfishapp/contextes.md)
     * [Référentiels](guide-administrateur/mapfishapp/referentiels.md)
+    * Addons
   * [GeoNetwork - catalogue](guide-administrateur/geonetwork-catalogue.md)
     * [cohérence données-métadonnées](guide-administrateur/geonetwork-catalogue/coherence-donnees-metadonnees.md)
     * [Documentation GeoNetwork](guide-administrateur/geonetwork-catalogue/documentation-geonetwork.md)
