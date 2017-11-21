@@ -24,12 +24,16 @@
   * [Gestion des droits](03_geonetwork/05_security.md)
 * liens données / métadonnées
 * [Guide administrateur](guide-administrateur.md)
-  * Comment débuter
-  * Configurer geOrchestra
+  * [Comment débuter](guide-administrateur/comment-debuter.md)
+  * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
+    * [Accès flux WMS / WFS / CSW](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
+    * [Contextes](guide-administrateur/mapfishapp/contextes.md)
+    * Référentiels
   * [GeoNetwork - catalogue](guide-administrateur/geonetwork-catalogue.md)
     * [cohérence données-métadonnées](guide-administrateur/geonetwork-catalogue/coherence-donnees-metadonnees.md)
+    * Documentation GeoNetwork
   * GeoServer
   * Ldap
 * test
