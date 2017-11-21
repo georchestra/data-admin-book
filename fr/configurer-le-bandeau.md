@@ -39,16 +39,16 @@ Le bandeau peut être partiellement personnalisé à partir de la configuration 
 
 La hauteur est configurable dans les fichiers suivants :
 
-`cas/cas.properties:header.height=90  
-catalogapp/catalogapp.properties:headerHeight=90              
-geowebcache/geowebcache.properties:header.height=90              
+`cas/cas.properties:header.height=90    
+catalogapp/catalogapp.properties:headerHeight=90                
+geowebcache/geowebcache.properties:header.height=90                
 ldapadmin/ldapadmin.properties:headerHeight=90`
 
 Cette configuration n'agira pas sur le header lui-même, ni sur les applications dont le bandeau n'est pas configurable \(en particulier GeoServer et GeoNetwork\).
 
 #### Modifier le logo
 
-Copier une image png dans l'emplacement `datadir/header/logo.png`. L'image doit avoir une hauteur de 50px. Une image sera automatiquement redimensionnée à une hauteur de 50px.
+Copier une image png dans l'emplacement `header/logo.png`. L'image doit avoir une hauteur de 50px. Une image sera automatiquement redimensionnée à une hauteur de 50px.
 
 #### Modifier le lien du logo
 
