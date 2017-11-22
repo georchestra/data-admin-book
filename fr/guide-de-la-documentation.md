@@ -1,4 +1,16 @@
-# Comment participer à l'élaboration de la documentation de geOrchestra?
+# Guide de la documentation de geOrchestra 
+
+## Qui gère/rédige la documentation?
+
+
+
+## Qu'elle est la pérennité de la documentation ?
+
+Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 2017, en partant de la version geOrchestra 16.12. A chaque nouvelle version la documentation est compilée \(commentaires/changements...\) et versionnée.
+
+## Comment je peux réutiliser cette documentation - droits ? 
+
+## Comment participer à l'élaboration de la documentation de geOrchestra?
 
 ### J'utilise la documentation et il manque des précisions ou je connais une autre façon de faire :
 
@@ -6,7 +18,8 @@
 
 * Vous pouvez ajouter des commentaires dans la documentation existante
 
-* Vous devez pour ce faire vous connecter via un compte github/google+/faceboook ou autres 
+* Vous devez pour ce faire vous connecter via un compte github/google+/faceboook ou autres
+
 * Les administrateurs de la plateforme seront notifiés de vos commentaires
 * Tous les commentaires sont visibles par tous \(pas de besoin de compte pour les voir\)
 * Chaque personne ayant un compte validé par le PSC pourra commenter/commenter un commentaire 
