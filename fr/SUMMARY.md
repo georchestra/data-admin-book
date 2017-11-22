@@ -6,6 +6,7 @@
     * [Préparation de fichier](guide-administrateur/comment-debuter/preparation-de-fichier.md)
     * [Concepts clés](02_geoserver/01_key_concepts.md)
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
+    * [Configurer le bandeau](configurer-le-bandeau.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
     * [GeoFence](02_geoserver/04_security.md)
     * [Ldap](02_geoserver/ldap.md)
@@ -20,7 +21,7 @@
   * [GeoServer](guide-administrateur/geoserver.md)
     * [Créer un lien entre les métadonnées et les données](guide-administrateur/geoserver/creer-un-lien-entre-les-metadonnees-et-les-donnees.md)
     * [Publier une donnée de manière optimale](02_geoserver/02_publish_data.md)
-* [Configurer le bandeau](configurer-le-bandeau.md)
+  * [Pydio](guide-administrateur/pydio.md)
 * [Guide utilisateur](guide-utilisateur.md)
 * [Guide mainteneur](guide-mainteneur.md)
 
