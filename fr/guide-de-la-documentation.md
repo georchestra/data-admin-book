@@ -1,14 +1,14 @@
-# Guide de la documentation de geOrchestra 
+# Guide de la documentation de geOrchestra
 
 ## Qui gère/rédige la documentation?
-
-
 
 ## Qu'elle est la pérennité de la documentation ?
 
 Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 2017, en partant de la version geOrchestra 16.12. A chaque nouvelle version la documentation est compilée \(commentaires/changements...\) et versionnée.
 
-## Comment je peux réutiliser cette documentation - droits ? 
+## Comment je peux réutiliser cette documentation - droits ?
+
+Le livre est sous licence CC- 
 
 ## Comment participer à l'élaboration de la documentation de geOrchestra?
 
@@ -21,6 +21,7 @@ Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 20
 * Vous devez pour ce faire vous connecter via un compte github/google+/faceboook ou autres
 
 * Les administrateurs de la plateforme seront notifiés de vos commentaires
+
 * Tous les commentaires sont visibles par tous \(pas de besoin de compte pour les voir\)
 * Chaque personne ayant un compte validé par le PSC pourra commenter/commenter un commentaire 
 
