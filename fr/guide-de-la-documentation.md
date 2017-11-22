@@ -8,7 +8,7 @@ Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 20
 
 ## Comment je peux réutiliser cette documentation - droits ?
 
-Le livre est sous licence CC-BY-SA 4.0 international 
+Le livre est sous licence CC-BY-SA 4.0 international pour plus de détails sur les droits et les devoirs de cette licences [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Comment participer à l'élaboration de la documentation de geOrchestra?
 
@@ -24,7 +24,7 @@ Le livre est sous licence CC-BY-SA 4.0 international
 
 * Tous les commentaires sont visibles par tous \(pas de besoin de compte pour les voir\)
 
-* Chaque personne ayant un compte validé par le PSC pourra commenter/commenter un commentaire 
+* Chaque personne ayant un compte validé par le PSC pourra commenter/commenter un commentaire
 
 ### Je souhaite rédiger des paragraphes, compléter la documentation existante :
 
