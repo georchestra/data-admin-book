@@ -2,6 +2,8 @@
 
 ## Qui gère/rédige la documentation?
 
+Le PSC geOrchestra est a l'initiative du livre. Il est destiné à tous et toutes les contributions sont les bienvenues. C'est un projet collaboratif et itératif.  
+
 ## Qu'elle est la pérennité de la documentation ?
 
 Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 2017, en partant de la version geOrchestra 16.12. A chaque nouvelle version la documentation est compilée \(commentaires/changements...\) et versionnée.
@@ -9,6 +11,10 @@ Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 20
 ## Comment réutiliser cette documentation - quels sont les droits ?
 
 Le livre est sous licence CC-BY-SA 4.0 international pour plus de détails sur les droits et les devoirs de cette licences [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Comment est organisée la documentation? 
+
+Le livre geOrchestra est destiné à toutes les informations et documentation sur ce qui est dans le coeur de geOrchestra ce qui est par définition générique a tous les utilisateurs de geOrchestra. La documentation sur les éléments spécifiques \(addons, modules, outils annexes\) est associée au compte github geOrchestra mais sont dans des livres différents. Tous les livres font référence aux autres livres et documentations annexes via des liens. 
 
 ## Comment participer à l'élaboration de la documentation de geOrchestra?
 
