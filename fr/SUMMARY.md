@@ -22,4 +22,5 @@
     * [Publier une donnée de manière optimale](02_geoserver/02_publish_data.md)
 * [Configurer le bandeau](configurer-le-bandeau.md)
 * [Guide utilisateur](guide-utilisateur.md)
+* [Guide mainteneur](guide-mainteneur.md)
 
