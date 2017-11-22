@@ -1,23 +1,6 @@
 # Summary
 
 * [Introduction](Introduction.md)
-* [Utilisateurs et groupes](01_users_and_groups/README.md)
-  * [Politiques de gestion des utilisateurs](01_users_and_groups/01_strategy.md)
-  * [Stockage](01_users_and_groups/02_storage.md)
-  * [Utilisateurs](01_users_and_groups/03_users.md)
-  * [Groupes prédéfinis](01_users_and_groups/04_static_groups.md)
-  * [Autres groupes](01_users_and_groups/05_other_groups.md)
-  * [Exemples](01_users_and_groups/06_examples.md)
-  * [Gestion avec l'application ldapadmin](01_users_and_groups/07_ldapadmin.md)
-  * [Gestion avec Apache Directory Studio](01_users_and_groups/08_apache_directory_studio.md)
-* [Données](02_geoserver/README.md)
-* Lien métadonnées et données
-* [Métadonnées](03_geonetwork/README.md)
-  * [Standards de métadonnées](03_geonetwork/01_standards.md)
-  * [Trouver une donnée via ses métadonnées](03_geonetwork/02finding_data_md.md)
-  * [Saisie d'une métadonnée et workflow de validation](03_geonetwork/03_editing_metadata.md)
-  * [Moissonage](03_geonetwork/04_harvesting.md)
-  * [Gestion des droits](03_geonetwork/05_security.md)
 * [Guide administrateur](guide-administrateur.md)
   * [Comment débuter](guide-administrateur/comment-debuter.md)
     * [Préparation de fichier](guide-administrateur/comment-debuter/preparation-de-fichier.md)
@@ -38,4 +21,5 @@
     * [Créer un lien entre les métadonnées et les données](guide-administrateur/geoserver/creer-un-lien-entre-les-metadonnees-et-les-donnees.md)
     * [Publier une donnée de manière optimale](02_geoserver/02_publish_data.md)
 * [Configurer le bandeau](configurer-le-bandeau.md)
+* [Guide utilisateur](guide-utilisateur.md)
 
