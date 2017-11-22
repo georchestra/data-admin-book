@@ -8,7 +8,7 @@
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
     * [GeoFence](02_geoserver/04_security.md)
-    * Ldap
+    * [Ldap](02_geoserver/ldap.md)
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
     * [Ajout de couche](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
     * [Contextes](guide-administrateur/mapfishapp/contextes.md)
