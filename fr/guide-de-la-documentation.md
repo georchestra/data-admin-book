@@ -6,7 +6,7 @@
 
 Ce livre à été mis en place lors du Code Sprint geOrchestra du 21 novembre 2017, en partant de la version geOrchestra 16.12. A chaque nouvelle version la documentation est compilée \(commentaires/changements...\) et versionnée.
 
-## Comment je peux réutiliser cette documentation - droits ?
+## Comment réutiliser cette documentation - quels sont les droits ?
 
 Le livre est sous licence CC-BY-SA 4.0 international pour plus de détails sur les droits et les devoirs de cette licences [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
