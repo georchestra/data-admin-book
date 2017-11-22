@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](Introduction.md)
-* [Introduction](README.md)
 * [Utilisateurs et groupes](01_users_and_groups/README.md)
   * [Politiques de gestion des utilisateurs](01_users_and_groups/01_strategy.md)
   * [Stockage](01_users_and_groups/02_storage.md)
@@ -12,10 +11,6 @@
   * [Gestion avec l'application ldapadmin](01_users_and_groups/07_ldapadmin.md)
   * [Gestion avec Apache Directory Studio](01_users_and_groups/08_apache_directory_studio.md)
 * [Données](02_geoserver/README.md)
-  * [Concepts clés](02_geoserver/01_key_concepts.md)
-  * [Publier une donnée de manière optimale](02_geoserver/02_publish_data.md)
-  * [Spécificités liées à geOrchestra](02_geoserver/03_georchestra_related.md)
-  * [Sécurité des données et des services](02_geoserver/04_security.md)
 * Lien métadonnées et données
 * [Métadonnées](03_geonetwork/README.md)
   * [Standards de métadonnées](03_geonetwork/01_standards.md)
@@ -26,8 +21,11 @@
 * [Guide administrateur](guide-administrateur.md)
   * [Comment débuter](guide-administrateur/comment-debuter.md)
     * [Préparation de fichier](guide-administrateur/comment-debuter/preparation-de-fichier.md)
+    * [Concepts clés](02_geoserver/01_key_concepts.md)
   * [Configurer geOrchestra](guide-administrateur/configurer-georchestra.md)
   * [Gestion des roles et utilisateurs](guide-administrateur/gestion-des-roles.md)
+    * [GeoFence](02_geoserver/04_security.md)
+    * Ldap
   * [Mapfishapp](guide-administrateur/mapfishapp.md)
     * [Ajout de couche](guide-administrateur/mapfishapp/acces-flux-wms-wfs-csw.md)
     * [Contextes](guide-administrateur/mapfishapp/contextes.md)
@@ -38,7 +36,6 @@
     * [Documentation GeoNetwork](guide-administrateur/geonetwork-catalogue/documentation-geonetwork.md)
   * [GeoServer](guide-administrateur/geoserver.md)
     * [Créer un lien entre les métadonnées et les données](guide-administrateur/geoserver/creer-un-lien-entre-les-metadonnees-et-les-donnees.md)
-  * Ldap
-* test
+    * [Publier une donnée de manière optimale](02_geoserver/02_publish_data.md)
 * [Configurer le bandeau](configurer-le-bandeau.md)
 
