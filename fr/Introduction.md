@@ -6,13 +6,11 @@ Il ne vise pas l'exhaustivité, car il existe par ailleurs d'excellentes documen
 
 ## Les ressources générales :
 
-Lien vers ce livre : [https://github.com/georchestra/data-admin-book](https://github.com/georchestra/data-admin-book)
+Lien vers ce livre : [https://www.gitbook.com/@georchestra](https://www.gitbook.com/@georchestra)
+
+Lien vers le dépôt github associe au gitbook : [https://github.com/georchestra/data-admin-book](https://github.com/georchestra/data-admin-book)
 
 Lien vers le dépôt du code geOrchestra : [https://github.com/georchestra](https://github.com/georchestra)
 
 Lien vers le site officiel de geOrchestra : [http://www.georchestra.org/ ](http://www.georchestra.org/)
-
-
-
-
 
