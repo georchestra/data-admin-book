@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](Introduction.md)
+* [Guide de la documentation ](guide-de-la-documentation.md)
 * [Guide administrateur](guide-administrateur.md)
   * [Comment débuter](guide-administrateur/comment-debuter.md)
     * [Préparation de fichier](guide-administrateur/comment-debuter/preparation-de-fichier.md)
